@@ -6,4 +6,6 @@ https://github.com/tensorflow/models/tree/master/research/object_detection
 
 В файлах, расположенных в директории links находятся текстовые документы со ссылками на изображения, не содержащие мячи для генерации обучающей выборки.
 
+Файлы предобученной модели и конфиг для обучения можно скачать по ссылке: https://drive.google.com/open?id=18Vr7QDij4m9NwZKavO39OG1RqU-ZlrAL
+
 
