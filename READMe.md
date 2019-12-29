@@ -8,4 +8,4 @@ https://github.com/tensorflow/models/tree/master/research/object_detection
 
 Файлы предобученной модели и конфиг для обучения можно скачать по ссылке: https://drive.google.com/open?id=18Vr7QDij4m9NwZKavO39OG1RqU-ZlrAL
 
-
+Загрузить фото и рендер мячей можно по ссылке: https://drive.google.com/open?id=1m1LUIR22reAiDPILUCsXuv4T-9UbT8wL
